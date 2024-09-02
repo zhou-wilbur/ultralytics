@@ -1,0 +1,7 @@
+openai-clip
+opencv-python
+psutil
+matplotlib
+pyyaml
+pandas
+ultralytics
