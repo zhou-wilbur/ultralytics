@@ -4,7 +4,7 @@
 .vscode/
 
 # datasets and projects
-datasets/
+#datasets/
 runs/
 wandb/
 .DS_Store
